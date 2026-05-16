@@ -1,5 +1,15 @@
 # 📊 E-Commerce Operations & Customer Experience Analysis
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
 ## 📌 Project Overview
 This project analyzes an e-commerce marketplace to understand key factors affecting **delivery performance, customer satisfaction, and revenue generation**.  
 
@@ -21,21 +31,32 @@ This project aims to:
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python (Pandas, NumPy)** → Data cleaning & analysis  
-- **Matplotlib, Seaborn** → Data visualization  
-- **SQL (concepts applied)** → Data querying & joins  
-- **Jupyter Notebook** → Analysis workflow  
 
+| Tool | Purpose |
+|---|---|
+| Python | Data Analysis |
+| Pandas | Data Cleaning |
+| NumPy | Numerical Operations |
+| Matplotlib | Data Visualization |
+| Seaborn | Statistical Visualization |
+| Jupyter Notebook | Analysis Workflow |
 ---
 
 ## 🗂️ Dataset Description
-Multiple datasets were used and merged using keys:
+The project uses multiple relational datasets merged using:
 
-- **Orders Dataset** → Order status, timestamps, delivery details  
-- **Customers Dataset** → Customer demographics & location  
-- **(Other related tables via ER diagram)**  
+- `customer_id`
+- `order_id`
 
-📌 Data was combined using **joins based on customer_id and order_id**
+### Main Datasets
+
+| Dataset | Description |
+|---|---|
+| Orders Dataset | Order status & delivery details |
+| Customers Dataset | Customer demographics |
+| Products Dataset | Product categories |
+| Payments Dataset | Payment details |
+| Reviews Dataset | Customer review scores | 
 
 ---
 
