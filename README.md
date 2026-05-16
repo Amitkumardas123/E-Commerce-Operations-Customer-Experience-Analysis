@@ -61,7 +61,7 @@ The project uses multiple relational datasets merged using:
 ---
 # 🧩 ER Diagram
 
-![ER Diagram]()
+![ER Diagram](https://github.com/Amitkumardas123/E-Commerce-Operations-Customer-Experience-Analysis/blob/1849f70c55f60080959ae89eeb15133800a3148e/Images/ER%20diag.png)
 ---
 ## 🔄 Project Workflow (Step-by-Step)
 
