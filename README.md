@@ -120,21 +120,65 @@ Performed analysis on:
 👉 **Impact:** Translated data into clear visual insights.
 
 ---
+# 📊 Orders vs Customers by State
 
+![Orders vs Customers](Images/orders_vs_customers_state.png)
+
+### 🔍 Insight
+
+- São Paulo (SP) dominates both orders and customer count.
+- Certain states contribute significantly higher business volume.
+- Reveals regional market concentration and target regions.
+---
+# 💰 Top Selling Products & Revenue Analysis
+
+![Top Products Revenue](Images/top_products_revenue.png)
+
+### 🔍 Insight
+
+- Some categories generate high sales volume but lower revenue.
+- High-revenue categories reveal profitable business segments.
+- Helps identify top-performing product categories.
+---
+# 🚚 States with Highest Delivery Time
+
+![Highest Delivery Time](Images/highest_delivery_state.png)
+
+### 🔍 Insight
+
+- Certain states experience significantly longer delivery times.
+- Delivery inefficiencies impact operational performance.
+- Highlights regions requiring logistics optimization.
+---
+# ⭐ Impact of Delivery Delay on Customer Reviews
+
+![Delivery Delay Review](Images/delivery_delay_review.png)
+
+### 🔍 Insight
+
+- Delayed deliveries drastically reduce customer review scores.
+- Operational inefficiencies directly affect customer satisfaction.
+- Demonstrates the business impact of logistics delays.
+---
 ## 💡 Key Insights
 - Significant number of delayed or non-delivered orders impacting customer experience  
 - Certain regions show higher order concentration → key target markets  
 - Operational inefficiencies directly affect customer satisfaction  
 - Order status distribution highlights process gaps  
-
+- Delayed deliveries negatively affect customer satisfaction.
+- São Paulo contributes the highest business volume.
+- Product categories vary significantly in profitability.
+- Logistics inefficiencies are concentrated in specific states.
+- Delivery performance directly impacts customer reviews.
 ---
 
 ## 🚀 Business Recommendations
 - Improve logistics and delivery processes to reduce delays  
 - Focus on high-demand regions for targeted marketing  
 - Optimize order processing pipeline to reduce cancellations  
-- Enhance customer experience through faster delivery and better service  
-
+- Enhance customer experience through faster delivery and better service
+- Focus marketing on high-demand states
+- Prioritize high-profit product categories
 ---
 
 ## 📈 Final Outcome
