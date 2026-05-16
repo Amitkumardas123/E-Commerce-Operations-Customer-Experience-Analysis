@@ -132,7 +132,7 @@ Performed analysis on:
 ---
 # 💰 Top Selling Products & Revenue Analysis
 
-![Top Products Revenue](Images/top_products_revenue.png)
+![Top Products Revenue](https://github.com/Amitkumardas123/E-Commerce-Operations-Customer-Experience-Analysis/blob/0dcb2ecb0d5086db127ba2f68fee58524c41875d/Images/top_selling_products_revenue.png)
 
 ### 🔍 Insight
 
