@@ -59,7 +59,10 @@ The project uses multiple relational datasets merged using:
 | Reviews Dataset | Customer review scores | 
 
 ---
+# 🧩 ER Diagram
 
+![ER Diagram]()
+---
 ## 🔄 Project Workflow (Step-by-Step)
 
 ### 🧩 Step 1: Data Understanding
